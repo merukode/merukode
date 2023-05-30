@@ -4,7 +4,7 @@ function Navbar() {
   return (
     <div className='w-80 m-auto justify-between p-3 flex items-center text-white md:w-3/4'>
         <div>
-        <img className='w-12 hover:translate-y-2 transition cursor-pointer' src='https://raw.githubusercontent.com/ulrmdhn/me.portoflio/master/src/img/mini-avatar.png'/>
+        <img className='w-12 hover:translate-y-2 transition cursor-pointer' src='https://raw.githubusercontent.com/ulrmdhn/me.portoflio/master/src/img/mini-avatar.png' alt='avatar'/>
         </div>
         <div className='flex gap-4'>
         <p className='hidden md:block underline underline-offset-1 hover:underline-offset-8 cursor-pointer'>Home</p>
