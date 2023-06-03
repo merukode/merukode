@@ -14,12 +14,16 @@ function Navbar() {
         </Link>
       </div>
       <div className="flex gap-4">
-        <p className="hidden md:block underline underline-offset-1 hover:underline-offset-8 cursor-pointer">
-          Home
-        </p>
-        <p className="underline transition delay-150 ease-in underline-offset-1 hover:underline-offset-8  cursor-pointer">
-          Projects
-        </p>
+        <Link href="/">
+          <p className="hidden md:block underline underline-offset-1 hover:underline-offset-8 cursor-pointer">
+            Home
+          </p>
+        </Link>
+        <Link href="/Projects">
+          <p className="underline transition delay-150 ease-in underline-offset-1 hover:underline-offset-8  cursor-pointer">
+            Projects
+          </p>
+        </Link>
       </div>
     </div>
   );
