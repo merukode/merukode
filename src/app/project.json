@@ -1,0 +1,7 @@
+[
+    {
+        "img": "https://raw.githubusercontent.com/sayarama/sayarama/master/src/img/nicastore.PNG",
+        "title": "Nicastore",
+        "desc": "Nicastore is a Thrift Store Website that I made for school project. I'm using Reactjs TailwindCSS and MaterialUI for this website. And MongoDB for the database."
+    }
+]
