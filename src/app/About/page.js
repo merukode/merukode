@@ -5,13 +5,13 @@ import Social from '../Social/Social'
 
 function page() {
   return (
-    <div className="w-screen bg-cover bg-center bg-no-repeat bg-[url('https://raw.githubusercontent.com/ulrmdhn/me.portoflio/master/src/img/bg-color-grid.png')]">
+    <div className="w-screen h-screen bg-cover bg-center bg-no-repeat bg-[url('https://raw.githubusercontent.com/ulrmdhn/me.portoflio/master/src/img/bg-color-grid.png')]">
       <Navbar/>
 
       <div className='section p-3 lg:w-3/4 lg:m-auto lg:justify-around text-white'>
         <h1 className='underline underline-offset-8 text-2xl font-bold py-3'>About</h1>
         <aside className='float-right hidden md:block md:w-72'>
-          <img
+          <img className='hover:translate-y-2 transition'
             src="https://raw.githubusercontent.com/ulrmdhn/me.portoflio/master/src/img/avatar.png"
             alt='Avatar Profile'
           />
