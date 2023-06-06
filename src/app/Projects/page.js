@@ -11,7 +11,7 @@ function page() {
       {
         items.map( item => {
           return(
-            <div className="container grid grid-cols-3 place-content-center align-middle justify-center items-center">
+            <div className="flex">
               <div className="flex flex-col w-72 gap-3 border-2 border-black bg-white">
               <img className="w-full" src={item.img} alt="img"/>
               <span className="p-3">
