@@ -7,10 +7,10 @@ function page() {
     <>
       <div className="w-screen bg-cover bg-center bg-no-repeat bg-[url('https://raw.githubusercontent.com/ulrmdhn/me.portoflio/master/src/img/bg-color-grid.png')]">
         <Navbar />
-        <h1 className="text-center text-white text-2xl font-bold underline underline-offset-8">
+        <h1 className="text-center text-white text-2xl font-bold mb-10 underline underline-offset-8">
           My Projects
         </h1>
-        <div className="flex flex-col gap-5 flex-wrap md:flex-row items-center md:justify-evenly mt-10">
+        <div className="flex flex-col gap-5 flex-wrap md:flex-row items-center md:justify-center mt-10 lg:w-9/12 lg:m-auto">
           {items.map((item) => {
             return (
               <div key={item.id} className="flex rounded-xl flex-col w-72 h-96 gap-3 bg-white">
