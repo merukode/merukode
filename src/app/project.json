@@ -21,6 +21,6 @@
         "id": 4,
         "img": "https://raw.githubusercontent.com/sayarama/sayarama/master/src/img/digicard.PNG",
         "title": "DigiCard",
-        "desc": "lorem ipsum dolor sit amet cositectum dsiris evrectum navidase"
+        "desc": "DigiCard is a website that I made whem i'm still learning how to fetch API to ReactJS using AXIOS. The website offer many digimon characters."
     }
 ]
