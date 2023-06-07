@@ -9,7 +9,7 @@
         "id": 2,
         "img": "https://raw.githubusercontent.com/sayarama/sayarama/master/src/img/vipp.PNG",
         "title": "VIPP Hotel ",
-        "desc": "VIPP Hotel is a website I made using Reactjs and TailwindCSS. I made this website when learn how to slicing design to website."
+        "desc": "VIPP Hotel is a website I made using Reactjs and TailwindCSS. I made this website when learn how to slicing design to website. (Desktop view recomended)"
     },
     {
         "id": 3,
@@ -21,6 +21,12 @@
         "id": 4,
         "img": "https://raw.githubusercontent.com/sayarama/sayarama/master/src/img/digicard.PNG",
         "title": "DigiCard",
-        "desc": "DigiCard is a website that I made whem i'm still learning how to fetch API to ReactJS using AXIOS. The website offer many digimon characters."
+        "desc": "DigiCard is a website that I made whem i'm still learning how to fetch API to ReactJS using AXIOS. The website offer many digimon characters. (Desktop view recomended)"
+    },
+    {
+        "id": 4,
+        "img": "https://raw.githubusercontent.com/sayarama/sayarama/master/src/img/gamestore.PNG",
+        "title": "AnuGamingStore",
+        "desc": "AnuGamingStore - Pit Stop To Upgrade Your Game Accounts. This website I made using ReactJS and TailwindCSS. I made this website to help me learn how to slice design into website. (Desktop view recomended)"
     }
 ]
