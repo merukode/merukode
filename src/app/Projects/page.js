@@ -14,7 +14,7 @@ function page() {
           {items.map((item) => {
             return (
               <div key={item.id} className="flex rounded-xl flex-col w-72 h-96 gap-3 bg-white">
-                <img className="w-full" src={item.img} alt="img" />
+                <img className="w-72" src={item.img} alt="img" />
                 <span className="p-3">
                   <p className="text-lg font-bold mb-2 text-[#282A2B]">
                     {item.title}
