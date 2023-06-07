@@ -23,7 +23,7 @@ function page() {
                     {item.desc}
                   </p>
                   <button className="text-white hover:bg-gray-900 bg-[#282A2B] px-5 py-2 rounded-md font-bold">
-                    Visit Test
+                    Visit Test ing
                   </button>
                 </span>
               </div>
