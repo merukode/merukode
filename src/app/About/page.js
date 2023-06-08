@@ -5,7 +5,7 @@ import Social from '../Social/Social'
 
 function page() {
   return (
-    <div className="w-screen h-screen bg-cover bg-center bg-no-repeat bg-[url('https://raw.githubusercontent.com/ulrmdhn/me.portoflio/master/src/img/bg-color-grid.png')]">
+    <div className="w-screen bg-cover bg-center bg-no-repeat bg-[url('https://raw.githubusercontent.com/ulrmdhn/me.portoflio/master/src/img/bg-color-grid.png')]">
       <Navbar/>
 
       <div className='section p-3 lg:w-3/4 lg:m-auto lg:justify-around text-white'>
