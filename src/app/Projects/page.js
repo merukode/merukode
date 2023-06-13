@@ -22,9 +22,9 @@ function page() {
                   <p className="text-sm font-medium mb-2 text-gray-600">
                     {item.desc}
                   </p>
-                  <button className="text-white hover:bg-gray-900 bg-[#282A2B] px-5 py-2 rounded-md font-bold">
+                  {/* <button className="text-white hover:bg-gray-900 bg-[#282A2B] px-5 py-2 rounded-md font-bold">
                     Visit
-                  </button>
+                  </button> */}
                 </span>
               </div>
             );
