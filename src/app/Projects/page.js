@@ -13,7 +13,7 @@ function page() {
         <div className="flex flex-col gap-5 flex-wrap md:flex-row items-center md:justify-center mt-10 lg:w-9/12 lg:m-auto">
           {items.map((item) => {
             return (
-              <div key={item.id} className="flex rounded-xl flex-col w-72 h-96 gap-3 bg-white">
+              <div key={item.id} className="flex hover:translate-x-3 transition rounded-xl flex-col w-72 h-96 gap-3 bg-white">
                 <img className="w-72 rounded-t-lg" src={item.img} alt="img" />
                 <span className="p-3">
                   <p className="text-lg font-bold mb-2 text-[#282A2B]">

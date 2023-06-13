@@ -34,5 +34,11 @@
         "img": "https://raw.githubusercontent.com/sayarama/sayarama/master/src/img/gamestore.PNG",
         "title": "AnuGamingStore",
         "desc": "This website I made using ReactJS and TailwindCSS. I made this website to help me learn how to slice design into website."
+    },
+    {
+        "id": 7,
+        "img": "https://raw.githubusercontent.com/sayarama/sayarama/master/src/img/holadoc.PNG",
+        "title": "Holadoc",
+        "desc": "Holadoc is a website that i made using TailwindCSS and ReactJS. This website is a user interface clone for website called Halodoc. "
     }
 ]
