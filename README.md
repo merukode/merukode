@@ -9,7 +9,9 @@
 
 ```csharp
 Name: Aulia Ramadhan / Rama. 
-Whoami: A Front-end Developer who enjoys creating side projects and is curious about new things. I commonly use React, TailwindCSS, and NodeJS in my work.
+Whoami: A Front-end Developer who enjoys creating side projects and
+curious about new things.
+I commonly use React, TailwindCSS, and NodeJS in my work.
 Instagram : @ul.ramadhan
 Location: Indonesia.
 Site : sayarama.vercel.app 
