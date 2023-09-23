@@ -7,4 +7,13 @@
 
 <img align="left" src="https://i.imgur.com/JvFFGQA.png" width="195px"/> 
 
+```csharp
+Name: Aulia Ramadhan / Rama. 
+Whoami: FrontEnd Developer. React | Tailwind | NodeJs 
+Instagram : @ul.ramadhan
+Location: Indonesia.
+Site : sayarama.vercel.app 
+
+```
+
 
