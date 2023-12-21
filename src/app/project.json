@@ -3,60 +3,48 @@
         "id": 1,
         "img": "https://raw.githubusercontent.com/sayarama/sayarama/master/src/img/recipe-home.png",
         "title": "PijarFood",
-        "tech" : ""
+        "tech" : ["ReactJs", "Javascript", "TailwindCSS", "NodeJs", "Axios"]
     },
     {
         "id": 2,
         "img": "https://raw.githubusercontent.com/sayarama/sayarama/master/src/img/tickitz-home.png",
         "title": "Ticktiz",
-        "tech" :""
+        "tech" : ["ReactJs", "Javascript", "Bootstrap", "NodeJs", "Axios"]
     },
     {
         "id": 3,
         "img": "https://raw.githubusercontent.com/sayarama/sayarama/master/src/img/peworld.png",
         "title": "Peworld",
-        "tech" :""
-    },
-    {
-        "id": 4,
-        "img": "https://raw.githubusercontent.com/sayarama/sayarama/master/src/img/digicard.PNG",
-        "title": "DigiCard",
-        "tech" :""
+        "tech" : ["ReactJs", "Javascript", "TailwindCSS", "NodeJs", "Axios"]
     },
     {
         "id": 5,
         "img": "https://raw.githubusercontent.com/sayarama/sayarama/master/src/img/nicastore.PNG",
         "title": "Nicastore",
-        "tech" : ""
+        "tech" : ["ReactJs", "Javascript", "Material Ui", "NodeJs", "Axios"]
     },
     {
         "id": 6,
         "img": "https://raw.githubusercontent.com/sayarama/sayarama/master/src/img/vipp.PNG",
         "title": "VIPP Hotel ",
-        "tech" :""
+        "tech" : ["ReactJs", "Javascript", "TailwindCSS"]
     },
     {
         "id": 7,
         "img": "https://raw.githubusercontent.com/sayarama/sayarama/master/src/img/4anthem.PNG",
         "title": "4Anthem",
-        "tech" :""
+        "tech" :["ReactJs", "Javascript", "TailwindCSS"]
     },
     {
         "id": 8,
         "img": "https://raw.githubusercontent.com/sayarama/sayarama/master/src/img/digicard.PNG",
         "title": "DigiCard",
-        "tech" :""
-    },
-    {
-        "id": 9,
-        "img": "https://raw.githubusercontent.com/sayarama/sayarama/master/src/img/gamestore.PNG",
-        "title": "AnuGamingStore",
-        "tech" :""
+        "tech" :["ReactJs", "Javascript", "TailwindCSS", "Axios", "NodeJs"]
     },
     {
         "id": 10,
         "img": "https://raw.githubusercontent.com/sayarama/sayarama/master/src/img/holadoc.PNG",
         "title": "Holadoc",
-        "tech" :""
+        "tech" :["ReactJs", "Javascript", "TailwindCSS"]
     }
 ]

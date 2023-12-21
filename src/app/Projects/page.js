@@ -19,9 +19,10 @@ function page() {
                   <p className="text-lg font-bold mb-2 text-[#282A2B]">
                     {item.title}
                   </p>
-                  <p className="text-sm font-medium mb-2 text-gray-600">
-                    {item.desc}
-                  </p>
+                  <div className="flex gap-2 flex-wrap">
+                    {item.tech.map((tech, index) => <p className='p-2 border-2 border-gray text-black hover:bg-black hover:text-white' key={index}>{tech}</p>)}
+                  </div>
+
                   {/* <button className="text-white hover:bg-gray-900 bg-[#282A2B] px-5 py-2 rounded-md font-bold">
                     Visit
                   </button> */}
