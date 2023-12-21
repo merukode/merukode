@@ -4,6 +4,24 @@ import Navbar from '../Navbar/Navbar'
 import Social from '../Social/Social'
 
 function page() {
+  const techStack = [
+    'HTML',
+    'CSS/SCSS',
+    'TypeScript',
+    'JavaScript',
+    'Tailwind CSS',
+    'Material UI',
+    'Chakra UI',
+    'Bootstrap',
+    'React',
+    'Next.js',
+    'Framer',
+    'VS Code',
+    'Node.js',
+    'Git',
+    'Figma',
+    'Inkscape',
+  ];
   return (
     <div className="w-screen h-full 3xl:h-screen bg-cover bg-center bg-no-repeat bg-[url('https://raw.githubusercontent.com/ulrmdhn/me.portoflio/master/src/img/bg-color-grid.png')]">
       <Navbar/>
@@ -23,25 +41,10 @@ function page() {
         <h1 className='underline underline-offset-8 text-2xl font-bold py-3'>
           Skills & Tools
         </h1>
-        <div>
-          <ul>
-            <li>- HTML</li>
-            <li>- CSS/SCSS</li>
-            <li>- TypeScript</li>
-            <li>- Javascript</li>
-            <li>- TailwindCss</li>
-            <li>- Material UI</li>
-            <li>- Charkra UI</li>
-            <li>- Bootstrap</li>
-            <li>- React</li>
-            <li>- Next.js</li>
-            <li>- Framer</li>
-            <li>- VS code</li>
-            <li>- Node.js</li>
-            <li>- Git</li>
-            <li>- Figma</li>
-            <li>- Inkscape</li>
-          </ul>
+        <div className='flex gap-2  flex-wrap w-96 mt-3'>
+          {techStack.map((tech, index) => (
+          <p className='p-2 border-2 text-white border-gray hover:bg-black hover:text-white' key={index} >{tech}</p>
+        ))}
         </div>
       </div>
       <Social className=""/>
