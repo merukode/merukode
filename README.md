@@ -1,7 +1,5 @@
 <div align="center">
-**<==！**
-![](https://count.getloli.com/get/@:XianyaoYu?theme=gelbooru)
-**==>。**
+
 
 </div>
 
