@@ -1,7 +1,3 @@
-<div align="center">
-
-</div>
-
 <img align="left" src="https://i.imgur.com/JvFFGQA.png" width="195px"/> 
 
 ```csharp
@@ -15,5 +11,10 @@ Location: Indonesia.
 Site : sayarama.vercel.app
 
 ```
+
+<div align="center">
+![github contribution grid snake animation](./dist//github-snake.svg#gh-dark-mode-only)
+![github contribution grid snake animation](./dist/github-snake.svg#gh-light-mode-only)
+</div>
 
 
