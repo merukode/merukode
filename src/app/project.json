@@ -3,48 +3,57 @@
         "id": 1,
         "img": "https://raw.githubusercontent.com/sayarama/sayarama/master/src/img/recipe-home.png",
         "title": "PijarFood",
-        "tech" : ["ReactJs", "Javascript", "TailwindCSS", "NodeJs", "Axios"]
+        "tech" : ["ReactJs", "Javascript", "TailwindCSS", "NodeJs", "Axios"],
+        "link": "https://pijar-food-team-b.vercel.app/"
     },
     {
         "id": 2,
         "img": "https://raw.githubusercontent.com/sayarama/sayarama/master/src/img/tickitz-home.png",
         "title": "Ticktiz",
-        "tech" : ["ReactJs", "Javascript", "Bootstrap", "NodeJs", "Axios"]
+        "tech" : ["ReactJs", "Javascript", "Bootstrap", "NodeJs", "Axios"],
+        "link": "https://tickitz-fe-two.vercel.app/"
     },
     {
         "id": 3,
         "img": "https://raw.githubusercontent.com/sayarama/sayarama/master/src/img/peworld.png",
         "title": "Peworld",
-        "tech" : ["ReactJs", "Javascript", "TailwindCSS", "NodeJs", "Axios"]
+        "tech" : ["ReactJs", "Javascript", "TailwindCSS", "NodeJs", "Axios"],
+        "link": "https://job-hiring.vercel.app/"
     },
     {
         "id": 5,
         "img": "https://raw.githubusercontent.com/sayarama/sayarama/master/src/img/nicastore.PNG",
         "title": "Nicastore",
-        "tech" : ["ReactJs", "Javascript", "Material Ui", "NodeJs", "Axios"]
+        "tech" : ["ReactJs", "Javascript", "Material Ui", "NodeJs", "Axios"],
+        "link" : ""
     },
     {
         "id": 6,
         "img": "https://raw.githubusercontent.com/sayarama/sayarama/master/src/img/vipp.PNG",
         "title": "VIPP Hotel ",
-        "tech" : ["ReactJs", "Javascript", "TailwindCSS"]
+        "tech" : ["ReactJs", "Javascript", "TailwindCSS"],
+        "link" : ""
+        
     },
     {
         "id": 7,
         "img": "https://raw.githubusercontent.com/sayarama/sayarama/master/src/img/4anthem.PNG",
         "title": "4Anthem",
-        "tech" :["ReactJs", "Javascript", "TailwindCSS"]
+        "tech" :["ReactJs", "Javascript", "TailwindCSS"],
+        "link" : ""
     },
     {
         "id": 8,
         "img": "https://raw.githubusercontent.com/sayarama/sayarama/master/src/img/digicard.PNG",
         "title": "DigiCard",
-        "tech" :["ReactJs", "Javascript", "TailwindCSS", "Axios", "NodeJs"]
+        "tech" :["ReactJs", "Javascript", "TailwindCSS", "Axios", "NodeJs"],
+        "link" : ""
     },
     {
         "id": 10,
         "img": "https://raw.githubusercontent.com/sayarama/sayarama/master/src/img/holadoc.PNG",
         "title": "Holadoc",
-        "tech" :["ReactJs", "Javascript", "TailwindCSS"]
+        "tech" :["ReactJs", "Javascript", "TailwindCSS"],
+        "link" : ""
     }
 ]
