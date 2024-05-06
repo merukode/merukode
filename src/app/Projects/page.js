@@ -28,7 +28,7 @@ function page() {
                 </span>
                 <span className="mt-5 flex px-5 justify-end">
                 <Link href={item.link} target='none'>
-                  <FaArrowCircleRight className="text-black text-4xl"/>
+                  <FaArrowCircleRight className="text-[#333] text-4xl"/>
                 </Link>
                 </span>
               </div>
