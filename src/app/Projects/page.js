@@ -1,12 +1,19 @@
 import React from "react";
+// import AOS from 'aos';
+// import 'aos/dist/aos.css';
 import Navbar from "../Navbar/Navbar";
 import items from "../project.json";
 import { FaArrowCircleRight } from "react-icons/fa";
 import Link from "next/link";
 
 
+// AOS.init();
+
+
+
 function page() {
   return (
+    
     <>
       <div className="w-screen bg-cover p-10 bg-center bg-no-repeat bg-[url('https://raw.githubusercontent.com/ulrmdhn/me.portoflio/master/src/img/bg-color-grid.png')]">
         <Navbar />
@@ -16,7 +23,7 @@ function page() {
         <div className="flex flex-col gap-5 flex-wrap md:flex-row items-center md:justify-center mt-10 lg:w-9/12 lg:m-auto">
           {items.map((item) => {
             return (
-              <div key={item.id} className="flex transition rounded-xl flex-col w-72 h-96 gap-3 bg-white">
+              <div key={item.id} data-aos="fade-up" className="flex transition rounded-xl flex-col w-72 h-96 gap-3 bg-white">
                 <img className="w-72 rounded-t-lg" src={item.img} alt="img" />
                 <span className="p-1">
                   <p className="text-lg font-bold mb-2 text-[#282A2B]">
